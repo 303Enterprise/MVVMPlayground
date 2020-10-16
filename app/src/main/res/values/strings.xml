@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MviTutorial</string>
+    <string name="user_id">User Id</string>
+    <string name="login">LOGIN</string>
+</resources>
